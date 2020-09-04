@@ -10,7 +10,7 @@ info:
   license:
     name: "IBC Montpellier"
     url: "http://agrold.southgreen.fr/agrold/about.jsp"
-host: "agrold.swagger.io"
+host: "agrold.southgreen.fr"
 basePath: "/agrold/api"
 tags:
 - name: "management"
